@@ -1,4 +1,4 @@
-# Klever Wallet
+# 0xfaa9ff80d01d6dfdbaad1ef46f19f1ad6fa9ac64Klever Wallet
 This is a repository containing a web application for managing cryptocurrency. The Klever Wallet allows users to store, edit, and remove their crypto assets to have a better control of their investments. This application was developed for a recruiting process at Klever (https://klever.io/en).
 
 ## Installation
